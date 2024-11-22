@@ -1,0 +1,221 @@
+[{
+		"timestamp":	"2024-11-20 20:20:21",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25,
+			"humidity":	57
+		}
+	}, {
+		"timestamp":	"2024-11-22 20:36:53",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	26.3,
+			"humidity":	61
+		}
+	}, {
+		"timestamp":	"2024-11-22 20:45:07",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	26.3,
+			"humidity":	61
+		}
+	}, {
+		"timestamp":	"2024-11-22 20:45:56",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	26.3,
+			"humidity":	61
+		}
+	}, {
+		"timestamp":	"2024-11-22 21:22:21",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	26.4,
+			"humidity":	61
+		}
+	}, {
+		"timestamp":	"2024-11-22 21:41:29",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.1,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 21:41:57",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.1,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 21:56:10",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 21:58:01",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 21:58:50",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:00:14",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:00:37",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:05:58",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:08:31",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:10:40",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:13:00",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	25.3,
+			"humidity":	65
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:18:57",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	24.1,
+			"humidity":	74
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:22:46",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	24.1,
+			"humidity":	74
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:24:06",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	24.1,
+			"humidity":	74
+		}
+	}, {
+		"timestamp":	"2024-11-22 22:28:37",
+		"location_details":	{
+			"city":	"Karachi",
+			"area":	"Sindh",
+			"nation":	"Pakistan"
+		},
+		"weather_conditions":	{
+			"temperature":	24.1,
+			"humidity":	74
+		}
+	}]
